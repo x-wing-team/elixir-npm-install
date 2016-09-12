@@ -1,7 +1,7 @@
 {
   "author": "xwing",
   "name": "elixir-npm-install",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Elixir wrapper for gulp npm install",
   "main": "nodeYo",
   "repository": {
