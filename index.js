@@ -8,7 +8,7 @@ elixir.extend('install', function(src, options) {
 
     new Task('install',function() {
 
-        return gulp.src(['./package.json'])
+        return gulp.src(options)
             .pipe(install());
 
     });
