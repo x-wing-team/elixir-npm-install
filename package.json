@@ -1,0 +1,20 @@
+{
+  "author": "xwing",
+  "name": "elixir-npm-install",
+  "version": "0.0.3",
+  "description": "Elixir wrapper for gulp npm install",
+  "main": "nodeYo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-wing-team/elixir-npm-install"
+  },
+  "keywords" : ["elixir", "npm", "gulp", "gulp-install"],
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "^4.0.0",
+    "gulp-install": "^0.6.0"
+  },
+  "engines": {
+    "node": "*"
+  }
+}

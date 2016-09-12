@@ -1,2 +1,2 @@
 # elixir-npm-install
-npm installer wrapper for elixir
+Elixir wrapper for gulp npm install
